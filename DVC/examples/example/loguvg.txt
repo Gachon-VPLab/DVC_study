@@ -1,0 +1,678 @@
+2022-05-13 04:46:25,959 - INFO] DVC training
+2022-05-13 04:46:25,959 - INFO] config : 
+2022-05-13 04:46:25,959 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-13 04:48:02,022 - INFO] DVC training
+2022-05-13 04:48:02,022 - INFO] config : 
+2022-05-13 04:48:02,022 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:13:21,716 - INFO] DVC training
+2022-05-14 06:13:21,716 - INFO] config : 
+2022-05-14 06:13:21,716 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:18:00,626 - INFO] DVC training
+2022-05-14 06:18:00,627 - INFO] config : 
+2022-05-14 06:18:00,627 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:26:14,064 - INFO] DVC training
+2022-05-14 06:26:14,064 - INFO] config : 
+2022-05-14 06:26:14,064 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:30:34,673 - INFO] DVC training
+2022-05-14 06:30:34,673 - INFO] config : 
+2022-05-14 06:30:34,673 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:34:06,540 - INFO] DVC training
+2022-05-14 06:34:06,540 - INFO] config : 
+2022-05-14 06:34:06,540 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-14 06:54:25,656 - INFO] DVC training
+2022-05-14 06:54:25,656 - INFO] config : 
+2022-05-14 06:54:25,656 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-20 04:34:38,248 - INFO] DVC training
+2022-05-20 04:34:38,248 - INFO] config : 
+2022-05-20 04:34:38,248 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-20 04:50:24,112 - INFO] DVC training
+2022-05-20 04:50:24,112 - INFO] config : 
+2022-05-20 04:50:24,112 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-20 23:56:23,569 - INFO] DVC training
+2022-05-20 23:56:23,569 - INFO] config : 
+2022-05-20 23:56:23,569 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-21 00:05:08,791 - INFO] DVC training
+2022-05-21 00:05:08,791 - INFO] config : 
+2022-05-21 00:05:08,791 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-21 12:34:29,130 - INFO] DVC training
+2022-05-21 12:34:29,131 - INFO] config : 
+2022-05-21 12:34:29,131 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-23 02:33:01,588 - INFO] DVC training
+2022-05-23 02:33:01,588 - INFO] config : 
+2022-05-23 02:33:01,588 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 06:37:51,353 - INFO] DVC training
+2022-05-26 06:37:51,353 - INFO] config : 
+2022-05-26 06:37:51,353 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 06:42:54,814 - INFO] DVC training
+2022-05-26 06:42:54,814 - INFO] config : 
+2022-05-26 06:42:54,814 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 06:44:26,336 - INFO] DVC training
+2022-05-26 06:44:26,336 - INFO] config : 
+2022-05-26 06:44:26,336 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 06:57:57,763 - INFO] DVC training
+2022-05-26 06:57:57,763 - INFO] config : 
+2022-05-26 06:57:57,763 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:06:09,332 - INFO] DVC training
+2022-05-26 07:06:09,332 - INFO] config : 
+2022-05-26 07:06:09,332 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:13:25,352 - INFO] DVC training
+2022-05-26 07:13:25,352 - INFO] config : 
+2022-05-26 07:13:25,352 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:15:02,097 - INFO] DVC training
+2022-05-26 07:15:02,097 - INFO] config : 
+2022-05-26 07:15:02,097 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:15:28,172 - INFO] DVC training
+2022-05-26 07:15:28,172 - INFO] config : 
+2022-05-26 07:15:28,172 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:18:47,467 - INFO] DVC training
+2022-05-26 07:18:47,467 - INFO] config : 
+2022-05-26 07:18:47,467 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 07:38:40,052 - INFO] DVC training
+2022-05-26 07:38:40,053 - INFO] config : 
+2022-05-26 07:38:40,053 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 09:22:38,556 - INFO] DVC training
+2022-05-26 09:22:38,556 - INFO] config : 
+2022-05-26 09:22:38,556 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 09:38:44,233 - INFO] DVC training
+2022-05-26 09:38:44,233 - INFO] config : 
+2022-05-26 09:38:44,233 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 09:39:28,575 - INFO] DVC training
+2022-05-26 09:39:28,575 - INFO] config : 
+2022-05-26 09:39:28,576 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 12:24:08,772 - INFO] DVC training
+2022-05-26 12:24:08,772 - INFO] config : 
+2022-05-26 12:24:08,772 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 12:26:46,400 - INFO] DVC training
+2022-05-26 12:26:46,400 - INFO] config : 
+2022-05-26 12:26:46,400 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 12:41:35,344 - INFO] DVC training
+2022-05-26 12:41:35,344 - INFO] config : 
+2022-05-26 12:41:35,345 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 14:03:36,126 - INFO] DVC training
+2022-05-26 14:03:36,126 - INFO] config : 
+2022-05-26 14:03:36,126 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 14:46:47,395 - INFO] DVC training
+2022-05-26 14:46:47,395 - INFO] config : 
+2022-05-26 14:46:47,396 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 14:58:37,041 - INFO] DVC training
+2022-05-26 14:58:37,041 - INFO] config : 
+2022-05-26 14:58:37,041 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:09:23,000 - INFO] DVC training
+2022-05-26 15:09:23,000 - INFO] config : 
+2022-05-26 15:09:23,000 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:10:53,211 - INFO] DVC training
+2022-05-26 15:10:53,212 - INFO] config : 
+2022-05-26 15:10:53,212 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:12:13,380 - INFO] DVC training
+2022-05-26 15:12:13,380 - INFO] config : 
+2022-05-26 15:12:13,380 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:13:14,068 - INFO] DVC training
+2022-05-26 15:13:14,068 - INFO] config : 
+2022-05-26 15:13:14,069 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:44:44,860 - INFO] DVC training
+2022-05-26 15:44:44,860 - INFO] config : 
+2022-05-26 15:44:44,860 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-26 15:45:17,285 - INFO] DVC training
+2022-05-26 15:45:17,285 - INFO] config : 
+2022-05-26 15:45:17,285 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-27 00:23:00,638 - INFO] DVC training
+2022-05-27 00:23:00,638 - INFO] config : 
+2022-05-27 00:23:00,638 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-27 01:01:53,272 - INFO] global step 0 : 
+
+2022-05-27 01:01:53,272 - INFO] UVGdataset : average bpp : 0.101409, average psnr : 37.777729, average msssim: 0.969824
+
+2022-05-30 14:17:16,160 - INFO] DVC training
+2022-05-30 14:17:16,160 - INFO] config : 
+2022-05-30 14:17:16,160 - INFO] {
+    "tot_epoch": 10000
+    "tot_step": 2000000,
+    "train_lambda": 1024
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 14:17:49,916 - INFO] DVC training
+2022-05-30 14:17:49,916 - INFO] config : 
+2022-05-30 14:17:49,916 - INFO] {
+    "tot_epoch": 10000
+    "tot_step": 2000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 14:19:00,980 - INFO] DVC training
+2022-05-30 14:19:00,980 - INFO] config : 
+2022-05-30 14:19:00,980 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 14:37:32,226 - INFO] DVC training
+2022-05-30 14:37:32,226 - INFO] config : 
+2022-05-30 14:37:32,226 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 14:41:50,903 - INFO] DVC training
+2022-05-30 14:41:50,903 - INFO] config : 
+2022-05-30 14:41:50,904 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 15:26:25,664 - INFO] global step 0 : 
+
+2022-05-30 15:26:25,664 - INFO] UVGdataset : average bpp : 0.068913, average psnr : 37.082816, average msssim: 0.965187
+
+2022-05-30 15:32:56,650 - INFO] DVC training
+2022-05-30 15:32:56,650 - INFO] config : 
+2022-05-30 15:32:56,650 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-30 16:16:22,995 - INFO] global step 0 : 
+
+2022-05-30 16:16:22,996 - INFO] UVGdataset : average bpp : 0.048830, average psnr : 36.343227, average msssim: 0.960083
+
+2022-05-31 01:07:36,565 - INFO] DVC training
+2022-05-31 01:07:36,565 - INFO] config : 
+2022-05-31 01:07:36,565 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-05-31 01:51:52,967 - INFO] global step 0 : 
+
+2022-05-31 01:51:52,972 - INFO] UVGdataset : average bpp : 0.034573, average psnr : 35.407389, average msssim: 0.951655
+
+2022-06-03 01:19:43,118 - INFO] DVC training
+2022-06-03 01:19:43,118 - INFO] config : 
+2022-06-03 01:19:43,118 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-06-03 01:55:35,412 - INFO] global step 0 : 
+
+2022-06-03 01:55:35,416 - INFO] UVGdataset : average bpp : 0.161783, average psnr : 37.393939, average msssim: 0.968229
+
+2022-06-07 22:27:38,749 - INFO] DVC training
+2022-06-07 22:27:38,750 - INFO] config : 
+2022-06-07 22:27:38,750 - INFO] {
+    "tot_epoch": 100,
+    "tot_step": 2000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-06-07 23:03:53,576 - INFO] global step 0 : 
+
+2022-06-07 23:03:53,578 - INFO] UVGdataset : average bpp : 0.099842, average psnr : 36.283813, average msssim: 0.961605
+
+2022-06-08 00:05:42,120 - INFO] DVC training
+2022-06-08 00:05:42,120 - INFO] config : 
+2022-06-08 00:05:42,120 - INFO] {
+    "tot_epoch": 100,
+    "tot_step": 2000000,
+    "train_lambda": 1024,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2022-06-08 00:40:26,599 - INFO] global step 0 : 
+
+2022-06-08 00:40:26,599 - INFO] UVGdataset : average bpp : 0.099840, average psnr : 36.283807, average msssim: 0.961606
+
